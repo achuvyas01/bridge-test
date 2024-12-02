@@ -1,0 +1,27 @@
+{
+  "theme_color": "#0033FF",
+  "background_color": "#2B2B32",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "BuddyApp",
+  "short_name": "BuddyApp",
+  "description": "Budd App",
+  "icons": [
+    {
+      "src": "/img/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
